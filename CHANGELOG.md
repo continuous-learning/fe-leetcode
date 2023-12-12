@@ -1,3 +1,8 @@
+## <small>1.0.4 (2023-12-12)</small>
+
+
+
+
 ## <small>1.0.3 (2023-12-12)</small>
 
 * feat(custom): [169] 多数元素 ([2357afc](https://github.com/continuous-learning/fe-leetcode/commit/2357afc))
