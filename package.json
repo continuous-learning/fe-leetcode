@@ -1,13 +1,9 @@
 {
   "name": "fe-leetcode",
-  "version": "1.1.1",
+  "version": "2.1.0",
   "description": "three leetcode questions a weekly",
-  "main": "1.两数之和.js",
   "scripts": {
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
-    "version:patch": "bash ./.versions.sh patch",
-    "version:minor": "bash ./.versions.sh minor",
-    "version:major": "bash ./.versions.sh major"
+    "release": "release-it"
   },
   "repository": {
     "type": "git",
@@ -21,12 +17,14 @@
   },
   "homepage": "https://github.com/continuous-learning/fe-leetcode#readme",
   "devDependencies": {
-    "@commitlint/config-conventional": "^16.2.4",
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "@release-it/conventional-changelog": "^8.0.1",
     "commitizen": "^4.3.0",
-    "commitlint": "^18.2.0",
-    "conventional-changelog-cli": "^4.1.0",
+    "cz-conventional-changelog": "^3.3.0",
     "cz-customizable": "^7.0.0",
-    "husky": "^7.0.4"
+    "husky": "^7.0.4",
+    "release-it": "^17.0.1"
   },
   "husky": {
     "hooks": {
