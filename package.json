@@ -1,6 +1,6 @@
 {
   "name": "fe-leetcode",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "three leetcode questions a weekly",
   "scripts": {
     "release": "release-it"
