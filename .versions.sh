@@ -31,8 +31,6 @@ git add package-lock.json
 git add CHANGELOG.md
 
 git cz
-git tag v$NEW_VERSION
 git push
-git push --tags
 
 echo "成功升级到版本号:v$NEW_VERSION"
