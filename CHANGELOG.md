@@ -1,5 +1,12 @@
 
 
+## [2.4.0](https://github.com/continuous-learning/fe-leetcode/compare/v2.3.0...v2.4.0) (2023-12-19)
+
+
+### ✨新功能
+
+* **[12] 整数转罗马数字:** 罗马数字包含以下七种字符： I， V， X， L，C，D 和 M。 ([dda0dba](https://github.com/continuous-learning/fe-leetcode/commit/dda0dba90facc3dad0a92e9a7fd5b6390afa0d55))
+
 ## [2.3.0](https://github.com/continuous-learning/fe-leetcode/compare/v2.2.1...v2.3.0) (2023-12-19)
 
 
