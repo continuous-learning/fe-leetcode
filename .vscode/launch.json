@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}/123.买卖股票的最佳时机-iii.js",
+      "program": "${workspaceFolder}/12.整数转罗马数字.js",
     }
   ]
 }
