@@ -1,5 +1,12 @@
 
 
+## [2.5.0](https://github.com/continuous-learning/fe-leetcode/compare/v2.4.0...v2.5.0) (2023-12-21)
+
+
+### ✨新功能
+
+* **[58] 最后一个单词的长度:** https://leetcode.cn/problems/length-of-last-word/description/ ([b316868](https://github.com/continuous-learning/fe-leetcode/commit/b316868f0303e522866e83d987a3e0ab71e09bae))
+
 ## [2.4.0](https://github.com/continuous-learning/fe-leetcode/compare/v2.3.0...v2.4.0) (2023-12-19)
 
 
